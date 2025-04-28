@@ -7,3 +7,8 @@ Day 13 - Lecture 124, 23-03-25
 Exercise Today.
 29-03-25 - Day 15: Adding a date feature.
 Master Python!
+A new todo 
+Edited Another oneClose the pen cap
+And lastly
+28-04-25 lesson 162
+New todo on 28th apr
