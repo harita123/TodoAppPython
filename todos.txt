@@ -1,14 +1,14 @@
 Code in Python
 Trump Inaguration - 20th Jan 2025
 Fix Computer 17-02-25
-Day 12, Date unknown.
 Day 13 - Lecture 124, 23-03-25
 26-03-24 Day 14
 Exercise Today.
 29-03-25 - Day 15: Adding a date feature.
 Master Python!
 A new todo 
-Edited Another oneClose the pen cap
 And lastly
 28-04-25 lesson 162
 New todo on 28th apr
+Exercise Today 25th May 25 for sure.
+
